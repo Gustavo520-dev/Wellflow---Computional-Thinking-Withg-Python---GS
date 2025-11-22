@@ -76,9 +76,7 @@ Para o funcionamento correto, baixe os arquivos Excel abaixo e coloque-os na mes
 
 📥 [situacoesMC.xlsx](https://github.com/user-attachments/files/23685894/situacoesMC.xlsx)
 
-### 📄 Documentação Técnica e Explicação das Estruturas (Para Entrega/PDF)
-
-# Documentação Técnica do Projeto WellFlow
+### Documentação Técnica do Projeto WellFlow
 
 ## Visão Geral da Arquitetura
 O sistema **WellFlow** foi projetado utilizando uma arquitetura modular. O fluxo de dados inicia na leitura de arquivos Excel (Input de Arquivo), passa pela interação com o usuário (Input de Console), processamento lógico (Cálculo de Score e Seleção de Situação) e termina na geração de persistência de dados e visualização (Output em CSV e Gráfico).
