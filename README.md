@@ -10,7 +10,7 @@
 
 **Disciplina:** Computational Thinking with Python
 
-**Apresentação da Solução WellFlow - GS Computational Thinking:** https://youtu.be/G9Q01RLKhWg
+**Apresentação da Solução WellFlow - GS Computational Thinking: https://youtu.be/G9Q01RLKhWg**
 
 **WellFlow: Análise Técnica e Estruturas Python (Code Review): https://youtu.be/ZqMTg-5aRVc** 
 
