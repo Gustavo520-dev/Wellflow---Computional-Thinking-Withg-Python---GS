@@ -4,8 +4,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from datetime import datetime
 
-FUNC_PATH = "C:/Users/Gustavo/Documents/WellFlow-GS/funcionariosMC.xlsx"
-SIT_PATH = "C:/Users/Gustavo/Documents/WellFlow-GS/situacoesMC.xlsx"
+FUNC_PATH = "Mudar/caminho"
+SIT_PATH = "Mudar/Caminho"
 
 OUT_DIR = "wellflow_outputs"
 os.makedirs(OUT_DIR, exist_ok=True)
@@ -201,3 +201,4 @@ def menu():
 
 if __name__ == "__main__":
     menu()
+
