@@ -5,7 +5,9 @@
 
 ## 👨‍💻 Autor
 **Nome:** Gustavo Cavalcanti - Brenda Thais Ribeiro dos Santos - Lucas Santana Silva
+
 **RMs:** 565601 - 561258 - 566261 (respectivamente)
+
 **Disciplina:** Computational Thinking with Python
 
 ---
