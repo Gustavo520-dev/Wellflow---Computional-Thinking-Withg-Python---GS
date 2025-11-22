@@ -63,7 +63,10 @@ Certifique-se de ter todos os requisitos instalados:
 
 
 [funcionariosMC.xlsx](https://github.com/user-attachments/files/23685895/funcionariosMC.xlsx)
+
 [situacoesMC.xlsx](https://github.com/user-attachments/files/23685894/situacoesMC.xlsx)
+
+Mudar caminho no codigo da leitura dos xlsx
 
 ### 📄 2. Documentação Técnica e Explicação das Estruturas (Para Entrega/PDF)
 
